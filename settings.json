@@ -1,0 +1,17 @@
+{
+    "name": "meow",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "none",
+        "/category/collection/core-entity": true,
+        "/category/asset_value_tracking/core-token/name": "Meow",
+        "/category/asset_value_tracking/core-token/symbol": "0xMeow",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "1000000000000"
+    }
+}
